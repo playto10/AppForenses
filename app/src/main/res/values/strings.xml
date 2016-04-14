@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_imagem">ImagemActivity</string>
+    <string name="title_activity_ligacao">LigacaoActivity</string>
+    <string name="title_activity_msg">MSGActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="title_activity_audio">AudioActivity</string>
+    <string name="title_activity_contato">ContatoActivity</string>
 </resources>
